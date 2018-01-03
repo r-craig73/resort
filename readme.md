@@ -7,21 +7,21 @@
 
 ## Description
 
-###Web page for proposed Ross Island Superfun(d) Experience Resort with multiple git branches.
+### Web page for proposed Ross Island Superfun(d) Experience Resort with multiple git branches.
 
 ## Setup/Installation Requirements
-###Opens in any web browser
+### Opens in any web browser
 
-##Known Bugs
-###Pillbugs, bedbugs, stinkbugs, I know lots of bugs.
+## Known Bugs
+### Pillbugs, bedbugs, stinkbugs, I know lots of bugs.
 
 ## Support and contact details
-###contact your state legislator and support your local sherif.
+### contact your state legislator and support your local sherif.
 
 ## Technologies Used
-###Caffeine
+### Caffeine
 
 ### License
-##GPL licensing applies
+## GPL licensing applies
 
-#Copyright (c) 2018 **Ron Craig, Ian Goodrich**
+# Copyright (c) 2018 **Ron Craig, Ian Goodrich**
