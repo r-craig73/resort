@@ -1,27 +1,29 @@
-
 # Resort Web Page
 
-#### web page for resort
+## GitHub repository: https://github.com/r-craig73/resort
 
-#### By Ron Craig and Ian Goodrich
+#### By Ron Craig (ron.craig@comcast.net) and Ian Goodrich
 
 ## Description
+* An Epicodus Intro to Programming lesson.
+* Learning how to generate a web page using pictures, styling and multiple Git branches.
+* A web page promoting the Ross Island resort, a Ross Island Superfun(d) Experience.
 
-### Web page for proposed Ross Island Superfun(d) Experience Resort with multiple git branches.
+## Setup/Installation Steps
+* Clone the repository
+* Open `index.html` in any web browser.
 
-## Setup/Installation Requirements
-### Opens in any web browser
-
-## Known Bugs
-### Pillbugs, bedbugs, stinkbugs, I know lots of bugs.
+#### Known Bugs
+* Pillbugs, bedbugs, stinkbugs, I know lots of bugs.
+* But seriously, no bugs at the moment 😉.
 
 ## Support and contact details
-### contact your state legislator and support your local sherif.
+* Contact your state legislator and support your local sherif.
 
 ## Technologies Used
-### Caffeine
+* Caffeine ☕️.
+* HTML, Atom text editor and Github.
 
-### License
-## GPL licensing applies
+### MIT License
 
-# Copyright (c) 2018 **Ron Craig, Ian Goodrich**
+#### Copyright (c) 2018 _Ron Craig, Ian Goodrich_
